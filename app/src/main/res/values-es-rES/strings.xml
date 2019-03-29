@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TempConsulting</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="invalid_url">URL no válida</string>
+    <string name="high_temp">Max: %s</string>
+    <string name="weather_condition_image">" Representación grafica de las condiciones climáticas"</string>
+    <string name="low_temp">Min: %s</string>
+    <string name="day_description">%1$s: %2$s</string>
+    <string name="humidity">Humedad: %s</string>
+    <string name="read_error">No fue posible obtener datos</string>
+    <string name="hint_text">" Introduzca el nombre de la ciudad"</string>
+    <string name="connect_error">" No se pudo conectar con servidor"</string>
+    <string name="desc_language">es</string>
+    <string name="measurement_unit">imperial</string>
+    <string name="new_search_started">" Nueva búsqueda iniciada"</string>
+    <string name="confirmation">Quieres borrar %s del historico?</string>
+    <string name="positive">Si</string>
+    <string name="negative">No</string>
+</resources>
